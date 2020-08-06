@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to the Robert O. Becker Lab
 
-You can use the [editor on GitHub](https://github.com/NiniOrtiz/Robert.O.Becker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Who we are?
+ We are a DIY-Bio community lab with a focus on research aligned with  evolutionary , developmental and cognitive sciences. We are interested particularly in the 
+ 
 
 # Header 1
 ## Header 2
