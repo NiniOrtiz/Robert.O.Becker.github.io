@@ -1,5 +1,7 @@
 # Welcome to the Robert O. Becker Lab
 
+ <img src="scale-free.jpeg" alt="scale-free.jpeg" width="400"/>
+ 
 
 ## Who we are?
 
@@ -19,8 +21,11 @@ To inspire novel research endevours and technologies focused on unraveling the m
 
 ## Education
  We will conduct talks, seminarys and workshops to communicate the science and inspiration for many of the ideas we will be working on in this lab. At the moment in curating these.
-# Research Opportunities
+## Research Opportunities
 If you are interested in working with us or have any doubt please send a message ! We are always open :)
+- We are currently working on studying bioelectrical patterns in the neurulation of Zebra fish
+
+ <img src="zebrafish.jpeg" alt="zebrafish.jpeg" width="400"/>
 # Contact
 Nini Ortiz Vales
 Founder and director of the Robert O. Becker Lab .
