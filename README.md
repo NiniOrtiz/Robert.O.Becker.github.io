@@ -11,7 +11,7 @@ The Robert O. Becker lab must become a role model for the first safe DIY-BIO lab
   - How bioelectrical signals are used by cells to communicate individual and collective messages that are used to heed and subscribe to the patterning needs of the host organism.
  - To understand  the top-down controls that bodies use to produce large-scale patterning outcomes and how the coupling of different networks of . For example, we use computational analysis of primitive bacterial biofilms models to understand the biophysical and  cognitive basis for the synchronyzation  of hetereogeneous populations of cells. We also are interested in used proven software to model bioelectrical patterns and their associated gene regulatory networks during developmental stages of zebrafish ( _Danio rerio_ ) Our focus is producing computer models of patterning  to connect gene regulatory networks, membrane biophysics, systems biology to complex anatomies in multicellular organisms.
  
- < br/>
+ <br />
 We want to make our findigs reproducible and easily accesable to the science community in order to inspire a new generation of scientists that are willing to conduct research in these emerging ideas that at the time are not being developed in any laboratory in México and many other underdeveloped countries.
 
 ## Vision
