@@ -1,6 +1,6 @@
 # Welcome to the Robert O. Becker Lab
 
- <img src="robert o becker lab 2.png" alt="robert o becker lab 2.png" width="900"/>
+ <img src="robslab.png" alt="robslab.png" width="900"/>
  
 
 ## Who we are?
