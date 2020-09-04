@@ -25,7 +25,9 @@ To inspire novel research endevours and technologies focused on unraveling the m
  We will conduct talks, seminarys and workshops to communicate the science and inspiration for many of the ideas we will be working on in this lab. At the moment we are curating these.
 ## Research Opportunities
 If you are interested in working with us or have any doubt please send a message ! We are always open :)
-- We are currently working on studying bioelectrical patterns in the neurulation of Zebra fish
+We are currently working on studying:
+-Bioelectrical patterns in the regeneration of fins of Zebra fish
+-The developmental stages of zebrafish to find what kind of bioelectrical patterns emerge during its morphogenesis. 
 
  <img src="zebrafish.jpeg" alt="zebrafish.jpeg" width="400"/>
 # Contact
